@@ -1,0 +1,23 @@
+.body{
+    background-color:dodgerblue;
+}
+.heading{
+    text-align: center;
+    color: white;
+}
+.image1{
+    width: 75%;
+    height: 75%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-right: 10px;
+}
+.thumbnail img:hover{
+    filter: brightness(120%);
+    transition: duration 0.5s; ;
+
+}
+.thumbnail img{
+    transition: duration 0.5s; ;
+
+}
